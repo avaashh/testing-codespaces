@@ -1,0 +1,30 @@
+[
+  {
+    "k": "Vectors",
+    "d": "data structures that represent an array of elements and are indexed and mutable."
+  },
+  {
+    "k": "Lists",
+    "d": "data structures that represent a linear collection of elements and are not indexed or mutable."
+  },
+  {
+    "k": "Indexed",
+    "d": "a feature of vectors that allows each element to be accessed in a constant amount of time, regardless of its position in the vector."
+  },
+  {
+    "k": "Mutable",
+    "d": "a feature of vectors that allows the elements to be changed or replaced."
+  },
+  {
+    "k": "Constructor",
+    "d": "a procedure for creating a vector, such as vector."
+  },
+  {
+    "k": "Accessor",
+    "d": "a procedure for accessing an element of a vector, such as vector-ref."
+  },
+  {
+    "k": "Mutator",
+    "d": "a procedure for modifying an element of a vector, such as vector-set!."
+  }
+]
